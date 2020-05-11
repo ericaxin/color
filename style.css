@@ -46,11 +46,11 @@ html, body{
 }
 
 .about {
-    height: 20%;
+    min-height: 7%;
     font-size: 2vh;
     padding-right: 20%;
     padding-left: 20%;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
     text-align: center;
     text-transform: none;
 }
